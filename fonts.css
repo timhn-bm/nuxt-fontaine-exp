@@ -1,0 +1,157 @@
+@font-face {
+    font-family: BMDupletDSP;
+    src: url('https://static-ds.backmarket.com/fonts/latest/BMDupletDSP-Semibold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: HelveticaDSP;
+    src: local('Helvetica Bold');
+    font-weight: 600;
+    ascent-override: 85%;
+    size-adjust: 91.8%;
+  }
+  @font-face {
+    font-family: BMDupletTXT;
+    src: url('https://static-ds.backmarket.com/fonts/latest/BMDupletTXT-Regular.woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: HelveticaTXT;
+    src: local('Helvetica');
+    font-weight: 400;
+    ascent-override: 80%;
+    size-adjust: 102%;
+  }
+  @font-face {
+    font-family: BMDupletTXT;
+    src: url('https://static-ds.backmarket.com/fonts/latest/BMDupletTXT-Italic.woff2');
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Helvetica-Oblique;
+    src: local('Helvetica Oblique');
+    font-weight: 400;
+    ascent-override: 80%;
+    size-adjust: 102%;
+  }
+  @font-face {
+    font-family: BMDupletTXT;
+    src: url('https://static-ds.backmarket.com/fonts/latest/BMDupletTXT-Semibold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: HelveticaTXT;
+    src: local('Helvetica Bold');
+    font-weight: 600;
+    ascent-override: 85%;
+    size-adjust: 96%;
+  }
+  @font-face {
+    font-family: BMDupletTXT;
+    src: url('https://static-ds.backmarket.com/fonts/latest/BMDupletTXT-SemiboldItalic.woff2');
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Helvetica-BoldOblique;
+    src: local('Helvetica Bold Oblique');
+    font-weight: 600;
+    ascent-override: 85%;
+    size-adjust: 96%;
+  }
+  @font-face {
+    font-family: IBMPlexSansJP;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IBMPlexSansJP-Regular.woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: IBMPlexSansJP;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IBMPlexSansJP-SemiBold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: IvarSoft;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IvarSoft-SemiBold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: IvarSoft;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IvarSoft-SemiBoldItalic.woff2');
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: IvarSoftGreek;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IvarSoftGreek-SemiBold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: IvarSoftGreek;
+    src: url('https://static-ds.backmarket.com/fonts/latest/IvarSoftGreek-SemiBoldItalic.woff2');
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Manrope;
+    src: url('https://static-ds.backmarket.com/fonts/latest/Manrope-Regular.woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Manrope;
+    src: url('https://static-ds.backmarket.com/fonts/latest/Manrope-SemiBold.woff2');
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: NotoSansKR;
+    src: url('https://static-ds.backmarket.com/fonts/latest/NotoSansKR-Bold.woff2');
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: NotoSansKR;
+    src: url('https://static-ds.backmarket.com/fonts/latest/NotoSansKR-Regular.woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: NotoSansMono;
+    src: url('https://static-ds.backmarket.com/fonts/latest/NotoSansMono-Regular.woff2');
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: ZenKakuGothicNew;
+    src: url('https://static-ds.backmarket.com/fonts/latest/ZenKakuGothicNew-Bold.woff2');
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+  }
+
+
+
